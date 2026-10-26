@@ -43,11 +43,3 @@ Rules for the catalog:
   is reported as unknown;
 - a copied runtime is a separate entry with `kind: runtime`, matched by file
   name and include guard, not by comment.
-
-## Status
-
-Draft, October 2026. Prepared as groundwork for an NLnet CodeSupply proposal.
-
-## License
-
-Catalog data: CC0-1.0. Code: Apache-2.0.
